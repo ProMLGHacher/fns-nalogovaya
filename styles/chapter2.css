@@ -1,0 +1,164 @@
+.chapter-2-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    width: 80%;
+    margin: 0 auto;
+    flex: 1;
+    align-items: center;
+}
+
+.chapter-2-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.chapter-2-content-link {
+    text-decoration: none;
+    color: #003192;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.chapter-2-1-section-content {
+    width: 90%;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.chapter-2-2-section-content {
+    padding: 40px 0;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.chapter-2-2-1-section-content {
+    padding: 40px;
+    font-size: 24px;
+}
+
+.chapter-2-2-1-section-content-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 2fr;
+    gap: 40px;
+}
+
+.chapter-2-2-1-section-content-grid-2 {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    margin-top: 20px;
+}
+
+.chapter-2-2-2-section-content {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+    justify-content: center;
+}
+
+.qr-logo {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.chapter-2-2-2-section-content-qe {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 400px;
+}
+
+
+.chapter-2-2-3-section-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    padding: 40px;
+    flex: 1;
+
+}
+
+.chapter-2-2-3-section-content-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+
+    padding: 0px 20%;
+}
+
+.smico {
+    width: 50%;
+}
+
+.smlink {
+    font-size: 20px;
+}
+
+.chapter-2-3-section-content {
+    padding: 40px;
+    flex: 1;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.chapter-2-4-section-content {
+    width: 90%;
+    margin: 0 auto;
+    padding: 40px 0px;
+    font-size: 20px;
+}
+
+.chapter-2-4-section-content-grid-1 {
+    display: grid;
+    grid-template-columns: 1fr 1.7fr 1fr;
+    gap: 40px;
+}
+
+
+.chapter-2-4-section-content-grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-top: 80px;
+}
+
+.itm {
+    width: 60%;
+    margin-inline: auto;
+}
+
+.chapter-2-4-1-section-content {
+    width: 90%;
+    margin: 0 auto;
+    padding: 40px;
+    font-size: 24px;
+}
+
+.chapter-2-4-1-section-content-grid1 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+}
+
+.chapter-2-4-1-section-content-grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-top: 80px;
+}
+
+.chapter-2-6-section-content {
+    width: 90%;
+    margin: 0 auto;
+    flex: 1;
+    padding: 40px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    font-size: 24px;
+}
